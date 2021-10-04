@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/digital-marketing/static/css/main.44696895.chunk.css",
+    "main.js": "/digital-marketing/static/js/main.af54d878.chunk.js",
+    "main.js.map": "/digital-marketing/static/js/main.af54d878.chunk.js.map",
+    "runtime-main.js": "/digital-marketing/static/js/runtime-main.475599f0.js",
+    "runtime-main.js.map": "/digital-marketing/static/js/runtime-main.475599f0.js.map",
+    "static/js/2.8a6cbb99.chunk.js": "/digital-marketing/static/js/2.8a6cbb99.chunk.js",
+    "static/js/2.8a6cbb99.chunk.js.map": "/digital-marketing/static/js/2.8a6cbb99.chunk.js.map",
+    "static/js/3.930e90a4.chunk.js": "/digital-marketing/static/js/3.930e90a4.chunk.js",
+    "static/js/3.930e90a4.chunk.js.map": "/digital-marketing/static/js/3.930e90a4.chunk.js.map",
+    "index.html": "/digital-marketing/index.html",
+    "static/css/main.44696895.chunk.css.map": "/digital-marketing/static/css/main.44696895.chunk.css.map",
+    "static/js/2.8a6cbb99.chunk.js.LICENSE.txt": "/digital-marketing/static/js/2.8a6cbb99.chunk.js.LICENSE.txt",
+    "static/media/3d.cdd08412.svg": "/digital-marketing/static/media/3d.cdd08412.svg",
+    "static/media/arvr.3d6cd797.svg": "/digital-marketing/static/media/arvr.3d6cd797.svg",
+    "static/media/cover.ec7cf7ef.png": "/digital-marketing/static/media/cover.ec7cf7ef.png",
+    "static/media/dots.e7bdc170.svg": "/digital-marketing/static/media/dots.e7bdc170.svg",
+    "static/media/illustration1.be8c2133.svg": "/digital-marketing/static/media/illustration1.be8c2133.svg",
+    "static/media/img1.58c83384.png": "/digital-marketing/static/media/img1.58c83384.png",
+    "static/media/img2.58390a94.png": "/digital-marketing/static/media/img2.58390a94.png",
+    "static/media/mobile.6501b2b5.svg": "/digital-marketing/static/media/mobile.6501b2b5.svg",
+    "static/media/pc.f15dc9e5.svg": "/digital-marketing/static/media/pc.f15dc9e5.svg",
+    "static/media/project1.153913cb.png": "/digital-marketing/static/media/project1.153913cb.png",
+    "static/media/project2.fea7e78b.png": "/digital-marketing/static/media/project2.fea7e78b.png",
+    "static/media/project3.3c2b8dbc.png": "/digital-marketing/static/media/project3.3c2b8dbc.png",
+    "static/media/project4.4f77c1f5.png": "/digital-marketing/static/media/project4.4f77c1f5.png",
+    "static/media/project5.8a52377a.png": "/digital-marketing/static/media/project5.8a52377a.png",
+    "static/media/project6.6c71552f.png": "/digital-marketing/static/media/project6.6c71552f.png",
+    "static/media/ps4.0da74980.svg": "/digital-marketing/static/media/ps4.0da74980.svg",
+    "static/media/vrar.fde9e69b.svg": "/digital-marketing/static/media/vrar.fde9e69b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.475599f0.js",
+    "static/js/2.8a6cbb99.chunk.js",
+    "static/css/main.44696895.chunk.css",
+    "static/js/main.af54d878.chunk.js"
+  ]
+}
