@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/digital-marketing/static/css/main.fed7603d.chunk.css",
-    "main.js": "/digital-marketing/static/js/main.488e88b9.chunk.js",
-    "main.js.map": "/digital-marketing/static/js/main.488e88b9.chunk.js.map",
+    "main.js": "/digital-marketing/static/js/main.b39f2d88.chunk.js",
+    "main.js.map": "/digital-marketing/static/js/main.b39f2d88.chunk.js.map",
     "runtime-main.js": "/digital-marketing/static/js/runtime-main.f7183e68.js",
     "runtime-main.js.map": "/digital-marketing/static/js/runtime-main.f7183e68.js.map",
-    "static/js/2.eba4d0ec.chunk.js": "/digital-marketing/static/js/2.eba4d0ec.chunk.js",
-    "static/js/2.eba4d0ec.chunk.js.map": "/digital-marketing/static/js/2.eba4d0ec.chunk.js.map",
+    "static/js/2.e2764e9f.chunk.js": "/digital-marketing/static/js/2.e2764e9f.chunk.js",
+    "static/js/2.e2764e9f.chunk.js.map": "/digital-marketing/static/js/2.e2764e9f.chunk.js.map",
     "static/js/3.9f09392e.chunk.js": "/digital-marketing/static/js/3.9f09392e.chunk.js",
     "static/js/3.9f09392e.chunk.js.map": "/digital-marketing/static/js/3.9f09392e.chunk.js.map",
     "index.html": "/digital-marketing/index.html",
     "static/css/main.fed7603d.chunk.css.map": "/digital-marketing/static/css/main.fed7603d.chunk.css.map",
-    "static/js/2.eba4d0ec.chunk.js.LICENSE.txt": "/digital-marketing/static/js/2.eba4d0ec.chunk.js.LICENSE.txt",
+    "static/js/2.e2764e9f.chunk.js.LICENSE.txt": "/digital-marketing/static/js/2.e2764e9f.chunk.js.LICENSE.txt",
     "static/media/3d.cdd08412.svg": "/digital-marketing/static/media/3d.cdd08412.svg",
     "static/media/arvr.3d6cd797.svg": "/digital-marketing/static/media/arvr.3d6cd797.svg",
     "static/media/cover.ec7cf7ef.png": "/digital-marketing/static/media/cover.ec7cf7ef.png",
@@ -31,12 +31,13 @@
     "static/media/project5.8a52377a.png": "/digital-marketing/static/media/project5.8a52377a.png",
     "static/media/project6.6c71552f.png": "/digital-marketing/static/media/project6.6c71552f.png",
     "static/media/ps4.0da74980.svg": "/digital-marketing/static/media/ps4.0da74980.svg",
+    "static/media/vid1.a564f5f4.mp4": "/digital-marketing/static/media/vid1.a564f5f4.mp4",
     "static/media/vrar.fde9e69b.svg": "/digital-marketing/static/media/vrar.fde9e69b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f7183e68.js",
-    "static/js/2.eba4d0ec.chunk.js",
+    "static/js/2.e2764e9f.chunk.js",
     "static/css/main.fed7603d.chunk.css",
-    "static/js/main.488e88b9.chunk.js"
+    "static/js/main.b39f2d88.chunk.js"
   ]
 }
